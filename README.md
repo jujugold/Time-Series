@@ -1,4 +1,3 @@
-![seasonality_time_series_heatmap](https://user-images.githubusercontent.com/77739272/196437341-dd1c9195-8c8c-45cc-be8b-ea67ab6cb2c8.png)
 # Time-Series
 Experimenting in time series analysis and forecasting
 
